@@ -42,7 +42,6 @@ BeReal PT1
 
 BeReal PT2 ->  (https://youtube.com/shorts/Fd_IAnDbYfE?feature=share)
 
-https://youtu.be/XxtqZfTPQ-g
 ## License
 
     Copyright [2025] [Claudia Espinosa]
