@@ -1,4 +1,4 @@
-# Project 2 - *BeReal*
+# Project 3 - *BeReal pt1 & 2*
 
 Submitted by: **Claudia Espinosa**
 
